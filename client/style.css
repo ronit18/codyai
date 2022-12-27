@@ -13,7 +13,7 @@ body {
 
 #app {
 	width: 100vw;
-	height: 100vh;
+	height: 90vh;
 	background: #111418;
 	display: flex;
 	flex-direction: column;
